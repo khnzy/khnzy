@@ -1,7 +1,8 @@
-👋 WELCOME
+<h2>👋 WELCOME </h2>
 <hr>
-About Me
-I am Khwnasat Giri Narzary, a data enthusiasts with love for finding insights within a dataset, learning, exploring the data domain and various techniques and tools for data analysis.<br><br>
+<h3>About Me</h3>
+<br>
+Hi, I am Khwnasat Giri Narzary, a data enthusiasts with love for finding insights within a dataset, learning, exploring the data domain and various techniques and tools for data analysis.<br><br>
 I specialise in cleaning a dataset, performig EDA, feature engineering and creating a meaningful dashboards.
 <hr>
 🛠️Tech Stack:<br>

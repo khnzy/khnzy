@@ -9,7 +9,7 @@ I specialise in cleaning a dataset, performig EDA, feature engineering and creat
 <h3>🛠️Tech Stack:</h3>
 <hr>
 <ul>
-	<li>Language: Python, Java, C</li>
+	<li>Language: Python, Java, Javascript, C</li>
 	<li>Libraries: Pandas, Numpy, Seaborn, Matplotlib</li>
 	<li>Database: SQL, MySQL, OracleSql</li>
 	<li>Spreadsheets: Excel, Google Sheets</li>

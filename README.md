@@ -15,7 +15,7 @@ I specialise in cleaning a dataset, performig EDA, feature engineering and creat
 	<li>Spreadsheets: Excel, Google Sheets</li>
 	<li>Tools: VsCode, Jupyter, Anaconda</li>
 	<li>Frontend: HTML, CSS, Tailwind</li>
-	<li>BI tools:Power Bi</li>
+	<li>BI tools:Tableau</li>
 </ol>
 
 

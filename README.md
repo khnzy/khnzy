@@ -10,8 +10,8 @@ I specialise in cleaning a dataset, performig EDA, feature engineering and creat
 <hr>
 <ul>
 	<li>Language: Python, Java, Javascript, C</li>
-	<li>Libraries: Pandas, Numpy, Seaborn, Matplotlib</li>
-	<li>Database: SQL, MySQL, OracleSql</li>
+	<li>Libraries: Pandas, Numpy, Seaborn, Matplotlib, Streamlit</li>
+	<li>Database: SQL, MySQL</li>
 	<li>Spreadsheets: Excel, Google Sheets</li>
 	<li>Tools: VsCode, Jupyter, Anaconda</li>
 	<li>Frontend: HTML, CSS, Tailwind</li>

@@ -9,9 +9,8 @@ I specialise in building ETL pipelines for cleaning a dataset, performig EDA, fe
 <h3>🛠️Tech Stack:</h3>
 <hr>
 <ul>
-	<li>Language: Python, Java, Javascript, C</li>
-	<li>Libraries: Pandas, Numpy, Seaborn, Matplotlib, Streamlit</li>
-	<li>Database: SQL, MySQL</li>
+	<li>Language: Python, SQL, Javascript, C</li>
+	<li>Libraries: Pandas, Numpy, Seaborn, Matplotlib, SQLAlchemy, sqlite3, Streamlit</li>
 	<li>Spreadsheets: Excel, Google Sheets</li>
 	<li>Tools: VsCode, Jupyter, Anaconda</li>
 	<li>BI tools:Power BI</li>
